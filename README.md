@@ -8,9 +8,6 @@
     The Translator Web App is a sophisticated language translation application developed using Flask, a lightweight and powerful web framework, and integrated with Microsoft Azure Translator API. This project aims to provide users with a seamless and efficient translation experience across multiple languages.
     <br/>
     <br/>
-    <a href="https://github.com/ezmoneysniperx/campfinder/issues">Report Bug</a>
-    .
-    <a href="https://github.com/ezmoneysniperx/campfinder/issues">Request Feature</a>
   </p>
 </p>
 
